@@ -1,5 +1,5 @@
 
-/*I have used mon.school to code this pookkalam.*/
+#I have used mon.school to code this pookkalam.
 
 color1 = color(r=128, g=0, b=32)
 shape1 = rectangle(h=160, w=160, fill=color1, stroke="none") | repeat(50, rotate(15))
