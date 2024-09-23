@@ -1,5 +1,5 @@
 # Code-a-pookkalam
-Hi all, My name os Manika Elizabeth Roy and I'm studying in S5 CSE.
+Hi all, My name is Manika Elizabeth Roy and I'm studying in S5 CSE.
 This is the overview of the pookkalam I have generated in mon.school using python.
 
 
